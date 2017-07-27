@@ -1,4 +1,8 @@
+# Trapdoor
 
+Hello there!
+
+Welcome to my project that I started to play with jekyll themes. This theme was based off of the Forty by HTML5 UP created by @ajlkn. The rest of the development, aside from his base theme, was done by myself to test the various newer techniques of CSS gradients and JS component based programming. I am a novice around these things, but super eager to learn and excited about all of the changing spaces of JS right now! 
 
 
 
